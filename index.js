@@ -182,10 +182,10 @@ let autobio = setting.autobio
 let antihidetag = setting.antihidetag
 
 banChats = setting.self_mode
-autorespon = false
+autorespon = true
 offline = false
 readGc = true 
-readPc = false 
+readPc = true 
 antitrol = false 
 bugc = false
 autovn = true
